@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+---
+
 - 🔭 I’m currently working on learn fullstack coding
 
 - 📫 How to reach me: mafemad200@gmail.com
@@ -21,7 +30,6 @@
 	</a>
 </div>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -29,14 +37,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40"       height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
   
 																	 
  
 	
 </div>
----
+
 
 
 ### :fire: My Stats :

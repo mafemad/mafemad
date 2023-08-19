@@ -9,9 +9,9 @@
 
 ---
 
-- 🔭 I’m currently working on learn fullstack coding
+- 🔭 Aprendendo a linguagem java 
 
-- 📫 How to reach me: mafemad200@gmail.com
+- 📫 contato: mafemad200@gmail.com
 
 ---
 <div id="header" align="center">
